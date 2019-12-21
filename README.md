@@ -1,5 +1,8 @@
 # oh-my-zsh-razorclam
+
 A minimal theme optimized for remote development
+
+![Example](razorclam-screenshot.png)
 
 ## Shorter git branch names
 
